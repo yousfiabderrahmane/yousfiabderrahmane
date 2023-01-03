@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousfiabderrahmane&label=Profile%20views&color=0e75b6&style=flat" alt="yousfiabderrahmane" /> </p>
+
 
 - 🔭 I’m currently working on [YousFilms](https://yousfilms.netlify.app/)
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousfiabderrahmane&show_icons=true&locale=en" alt="yousfiabderrahmane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousfiabderrahmane&" alt="yousfiabderrahmane" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousfiabderrahmane&label=Profile%20views&color=0e75b6&style=flat" alt="yousfiabderrahmane" /> </p>
