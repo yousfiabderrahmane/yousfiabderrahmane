@@ -4,7 +4,7 @@
 
 **`Junior Front-End Developer`**
 
-Hi 🙋‍♂️, I’m a multidisciplinary developer with a passion for creating engaging and entertaining user experiences 👨‍💻 .
+Hi 🙋‍♂️, I am a multidisciplinary developer with a passion for creating engaging and entertaining user experiences 👨‍💻 .
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-yousfi-661628260) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sneax#9716) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousfi_3) 
