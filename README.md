@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 🎈 Abderrahmane Yousfi
+### 🎈  Abderrahmane Yousfi
 
 **`Junior Front-End Developer`**
 
