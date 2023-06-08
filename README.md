@@ -2,9 +2,9 @@
 
 ### 🎈  Abderrahmane Yousfi
 
-**`Junior Front-End Developer`**
+**`Front-End Developer`**
 
-Hi 🙋‍♂️ , I am a multidisciplinary developer with a passion for creating engaging and entertaining user experiences 👨‍💻.
+I love la7rira 🍲.
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-yousfi-661628260) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousfi_3) 
