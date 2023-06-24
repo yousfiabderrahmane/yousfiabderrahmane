@@ -1,3 +1,3 @@
 
 
-### fan dyal L'morphine 🤓
+### l'morfiniya prime 🌌
